@@ -1,2 +1,2 @@
-# rtk
-Drivers and visualisations for RTK GPS data
+# RTK GPS Data visualisation Matlab files
+GPS Data visualisation Matlab files
